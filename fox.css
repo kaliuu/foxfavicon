@@ -1,0 +1,15 @@
+h1 {
+  color: #9d79d6;
+  text-decoration: wavy underline;
+}
+
+a {
+  color: #719cd6;
+  text-decoration: wavy underline;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+hr {
+  color: #c94f6d;
+}
